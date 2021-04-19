@@ -1,4 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width=150px height=150px />
+<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width=250px height=150px />
+
+### Hi there 
 
 <!--
 **hpsetti/hpsetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
