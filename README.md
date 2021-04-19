@@ -20,7 +20,12 @@ I'm a Software Engineer specializing in Javascript technologies.
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=150px height=150px />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width=150px height=150px />  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width=150px height=150px />
 
+---
 
+📘 Latest Blog Articles
 
-   
-   
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://hackernoon.com/u/hpsetti)
