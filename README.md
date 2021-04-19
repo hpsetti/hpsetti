@@ -1,22 +1,26 @@
 <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width=480px height=350px />
-
+                                                                          
 
 
 ### Hi there, I'm Harish!
 
+I'm a Software Engineer specializing in Javascript technologies.
 
 
-<!--
-**hpsetti/hpsetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own AWESOME blog App!
+- 🌱 I’m currently learning Next.js.
+- 👯 I’m looking to collaborate on web-apps and DApps.
+- 😄 Pronouns: He/Him
+- 🤹 Other Acitvites: I read books (tons of em), play half-life cod and other fps games, learn french and cook!
+- ⚡ Fun fact: I visited a world famous whiskey distillery and drank their expensive scotch without an authorised entry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Toolkit
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=150px height=150px />  <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width=150px height=150px />  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=150px height=150px /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width=150px height=150px />
+
+
+
+   
+   
