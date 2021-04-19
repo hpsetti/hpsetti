@@ -25,7 +25,7 @@ I'm a Software Engineer specializing in Javascript technologies.
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [A Beginner's Guide To APIs](https://dev.to/hpsetti/a-begineer-s-guide-to-apis-4b4d)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://hackernoon.com/u/hpsetti)
