@@ -12,7 +12,7 @@ I'm a Software Engineer specializing in Javascript technologies.
 - 🔭 I’m currently working on my own AWESOME blog App!
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on web-apps, DApps and hackathons!
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - 📫 How to reach me: [@hpsetti](https://dev.to/hpsetti)
 - 🤹 Other Acitvites: I read books (tons of em), play half-life cod and other fps games, learn french and cook!
 - ⚡ Fun fact: I visited a world famous whiskey distillery and drank their expensive scotch without an authorised entry
