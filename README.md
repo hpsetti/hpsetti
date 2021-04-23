@@ -10,7 +10,7 @@ I'm a Software Engineer specializing in Javascript technologies.
 ---
 
 - 🔭 I’m currently working on my own AWESOME blog App!
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Solidity.
 - 👯 I’m looking to collaborate on web-apps, DApps and hackathons!
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: [@hpsetti](https://dev.to/hpsetti)
