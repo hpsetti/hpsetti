@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Harish!
 
-I'm a Software Engineer specializing in Javascript technologies.
+I'm a Software Engineer specializing in Javascript and blockchain technologies.
 
 
 ---
