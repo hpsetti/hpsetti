@@ -10,7 +10,7 @@ I'm a Software Engineer specializing in Javascript and blockchain technologies.
 ---
 
 - 🔭 I’m currently working on my own AWESOME blog App!
-- 🌱 I’m currently learning Next.js and DApps.
+- 🌱 I’m currently learning Nuxt.js and DApps.
 - 👯 I’m looking to collaborate on web-apps, DApps and hackathons!
 - 😄 Pronouns: He/Him.
 - 📫 How to reach me: [@hpsetti](https://dev.to/hpsetti)
