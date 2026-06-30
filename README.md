@@ -10,7 +10,7 @@ I'm a Software Engineer specializing in Javascript.
 ---
 
 - 🔭 I’m currently working on building my own cloud stack!
-- 📫 How to reach me: [@hpsetti](https://dev.to/hpsetti)
+- 📫 How to reach me: 𝕏 [@hpsetti](https://www.x.com/hpsetti), Dev.to [@hpsetti](https://dev.to/hpsetti)
 - 🤹 Other Acitvites: I read books (tons of em), play half-life cod and other fps games, learn french and cook!
 
 ## 🧰 My Toolkit
